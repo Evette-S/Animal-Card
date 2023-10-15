@@ -1,0 +1,25 @@
+p{
+    margin:10px
+  }
+  .baby-cheetah{
+    Width:300px;
+    Margin-bottom: 10px;
+  }
+  #funfact{
+   font-style: italic;
+  }
+  .listlabels{
+    font-weight:bold;
+  }
+  #bullets{
+    list-style: none
+  }
+  #mainbox{
+    border: 10px solid blue;
+    padding: 10px;
+    width:300px;
+    background-color: yellow;
+  }
+  #infobox{
+  border: 1px solid blue;
+  }
